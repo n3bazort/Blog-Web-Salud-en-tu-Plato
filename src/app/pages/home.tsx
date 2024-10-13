@@ -41,10 +41,6 @@ export default function HomePage() {
     { id: 1, title: "10 Súper Alimentos para Aumentar tu Energía", image: "/placeholder.svg?height=200&width=300", author: "Josue Bazurto" },
     { id: 2, title: "Guía Completa de la Dieta Mediterránea", image: "/placeholder.svg?height=200&width=300", author: "María López" },
     { id: 3, title: "Recetas Saludables para Desayunos Rápidos", image: "/placeholder.svg?height=200&width=300", author: "Carlos Ruiz" },
-    { id: 4, title: "Recetas Saludables para Desayunos Rápidos", image: "/placeholder.svg?height=200&width=300", author: "Carlos Ruiz" },
-    { id: 5, title: "Recetas Saludables para Desayunos Rápidos", image: "/placeholder.svg?height=200&width=300", author: "Carlos Ruiz" },
-    { id: 6, title: "Recetas Saludables para Desayunos Rápidos", image: "/placeholder.svg?height=200&width=300", author: "Carlos Ruiz" },
-
   ];
 
   const recentBlogs = [
